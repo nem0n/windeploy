@@ -1,6 +1,6 @@
 {
   "friendly_name": "Win10",
-  "image_src": "blob:https://nem0n.github.io/a0e90e39-227c-47c0-938d-1c6ebf8b2b0d",
+  "image_src": "https://nem0n.github.io/1.1/win.png",
   "description": "win10",
   "cores": 2,
   "memory": 2768,
