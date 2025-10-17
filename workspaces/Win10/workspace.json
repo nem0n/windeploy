@@ -1,0 +1,21 @@
+{
+  "friendly_name": "Win10",
+  "image_src": "blob:https://nem0n.github.io/a0e90e39-227c-47c0-938d-1c6ebf8b2b0d",
+  "description": "win10",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop",
+    "Remote Access"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "name": "kasm/windows-ready:latest"
+}
